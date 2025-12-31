@@ -1,58 +1,85 @@
-<!-- Animated Header -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=HakimColor&fontSize=50&fontColor=ffffff&color=0:9333ea,100:2563eb&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hakim%20Color&fontSize=45&fontColor=ffffff&color=0:2563eb,100:9333ea&animation=fadeIn" />
 </p>
 
-<h2 align="center">👋 Hi there, I'm Hakim</h2>
+<!-- ===================== NAME & DESIGNATION ===================== -->
+<h1 align="center">Hi 👋, I'm Hakim</h1>
+<h3 align="center">Frontend Web Developer</h3>
 
-<h4 align="center">
-💻 Web Developer • 🎨 UI Lover • 🚀 Tech Enthusiast
-</h4>
-
+<!-- ===================== LOCATION & CONTACT ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=8b5cf6&style=flat-square" />
-</p>
-
----
-
-## ✨ About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Web+Developer;Frontend+Focused;React+Learner;Always+Improving&font=Fira%20Code&center=true&width=500&height=45&color=8b5cf6&pause=1000" />
-</p>
-
-- 🔭 I’m currently working on **frontend & UI projects**
-- 🌱 I’m currently learning **React & modern JavaScript**
-- 👯 I’m looking to collaborate on **web projects**
-- 🤔 I’m looking for help with **advanced React concepts**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- ⚡ Fun fact: *I love clean design & smooth animations*
-
----
-
-## 🧠 Skills & Technologies (Animated)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode&theme=dark" />
+📍 Location: <b>Your City, Country</b> <br/>
+📧 Email: <b>yourprofessionalemail@gmail.com</b> <br/>
+📞 Contact: <b>+880-XXXXXXXXX</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HTML+%7C+CSS+%7C+JavaScript;React+Developer;Clean+UI+Builder;Future+Full+Stack+Dev&center=true&width=600&height=40&color=22c55e&pause=1200" />
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=6366f1&style=flat-square" />
 </p>
 
 ---
 
-## 🎨 Featured Repository
+## 👨‍💻 About Me
 
-### ⭐ HakimColor
-> A creative project focused on colors, UI design, and frontend concepts.
+I am a passionate Frontend Web Developer with a strong interest in building clean, responsive, and user-friendly web applications.  
+I enjoy working with modern web technologies and continuously improving my development skills.  
+My goal is to create meaningful digital experiences through efficient and scalable code.
 
-🔗 **Repo:** https://github.com/hakimcolor/hakimcolor
+---
 
-```txt
-✔ Clean UI
-✔ Modern layout
-✔ Beginner-friendly
-✔ Easy to customize
+## 🚀 Current Activities
 
+- 🔭 I am currently working on **Frontend Web Projects**
+- 🌱 I am exploring **React.js & Next.js**
+- 🧠 Improving my **JavaScript problem-solving skills**
+- 👯 Looking to collaborate on **client-side web applications**
 
+---
+
+## 🛠️ Skills & Technologies
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Backend (Basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🌐 Social & Professional Links
+
+<p>
+  <a href="https://github.com/hakimcolor">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories and projects below**
