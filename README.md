@@ -1,39 +1,50 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hakim%20Color&fontSize=45&fontColor=ffffff&color=0:2563eb,100:9333ea&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hakim%20Ali&fontSize=45&fontColor=ffffff&color=0:dc2626,100:7c2d12&animation=fadeIn" 
+    alt="banner"
+  />
 </p>
 
-<!-- ===================== NAME & DESIGNATION ===================== -->
-<h1 align="center">Hi 👋, I'm Hakim</h1>
-<h3 align="center">Frontend Web Developer</h3>
-
-<!-- ===================== LOCATION & CONTACT ===================== -->
+<!-- ===================== PROFILE IMAGE ===================== -->
 <p align="center">
-📍 Location: <b>Your City, Country</b> <br/>
-📧 Email: <b>yourprofessionalemail@gmail.com</b> <br/>
-📞 Contact: <b>+880-XXXXXXXXX</b>
+  <img 
+    src="YOUR_IMAGE_LINK_HERE" 
+    alt="Hakim Ali"
+    width="180"
+    style="border-radius:50%; border:4px solid #dc2626;"
+  />
+</p>
+
+<h2 align="center">👋 Hi, I'm Hakim Ali</h2>
+<h4 align="center">Frontend Web Developer | React Learner</h4>
+
+<p align="center">
+📍 <b>Location:</b> Your City, Country <br/>
+📧 <b>Email:</b> yourprofessionalemail@gmail.com <br/>
+📞 <b>Contact:</b> +880-XXXXXXXXX
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=6366f1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=dc2626&style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate Frontend Web Developer with a strong interest in building clean, responsive, and user-friendly web applications.  
-I enjoy working with modern web technologies and continuously improving my development skills.  
-My goal is to create meaningful digital experiences through efficient and scalable code.
+I am a passionate Frontend Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
+I love working with modern web technologies and continuously improving my skills.  
+My goal is to become a professional developer and contribute to impactful projects.
 
 ---
 
 ## 🚀 Current Activities
 
-- 🔭 I am currently working on **Frontend Web Projects**
-- 🌱 I am exploring **React.js & Next.js**
-- 🧠 Improving my **JavaScript problem-solving skills**
-- 👯 Looking to collaborate on **client-side web applications**
+- 🔭 I’m currently working on **Frontend Web Projects**
+- 🌱 I’m exploring **React.js & Next.js**
+- 👯 I’m looking to collaborate on **client-side applications**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 ---
 
@@ -49,7 +60,7 @@ My goal is to create meaningful digital experiences through efficient and scalab
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
@@ -72,14 +83,14 @@ My goal is to create meaningful digital experiences through efficient and scalab
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=radical" />
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and projects below**
+⭐ **Thank you for visiting my profile!**
