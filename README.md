@@ -1,5 +1,6 @@
 ---
-
+#### Web Developer 
+![Web Developer ](https://i.ibb.co.com/H0RdVRn/Screenshot-2025-12-31-183120.png)
 ## 🚀 About My Work
 I focus on building **clean, scalable, and user-friendly web applications** using modern technologies.  
 I enjoy turning complex problems into simple, elegant solutions and continuously improving my development workflow.
@@ -12,8 +13,7 @@ I enjoy turning complex problems into simple, elegant solutions and continuously
 - 🔐 Implement authentication & backend logic using Firebase & Node.js  
 - 🗄 Work with MongoDB for efficient data handling  
 - 🤖 Experiment with **AI models & AI-powered features**  ### Hi there 👋, I'm Mohammad Azizul Hakim
-#### Web Developer 
-![Web Developer ](https://i.ibb.co.com/H0RdVRn/Screenshot-2025-12-31-183120.png)
+
 
 I am a passionate Frontend Web Developer who enjoys building clean, responsive, and user-friendly web applications.  
 I love working with modern web technologies and continuously improving my skills.  
