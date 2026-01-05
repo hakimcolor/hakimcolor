@@ -1,58 +1,61 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/H0RdVRn/Screenshot-2025-12-31-183120.png" alt="Mohammad Azizul Hakim - Web Developer Banner" width="100%" />
+  <img src="https://i.ibb.co.com/H0RdVRn/Screenshot-2025-12-31-183120.png" alt="Mohammad Azizul Hakim - MERN Stack Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Azizul Hakim</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js</h3>
+<h3 align="center">MERN Stack Developer | E-commerce Web Development Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a **Frontend Web Developer** passionate about building **clean, scalable, and user-friendly web applications**.  
-I enjoy turning complex problems into **simple and elegant solutions** using modern technologies.
+I’m a **MERN Stack Developer** specializing in **E-commerce Web Applications**.  
+I focus on building **scalable, secure, and high-performance online stores** with clean architecture and modern technologies.
 
-- 🔭 Working on a **private web application**
+- 🔭 Working on a **private E-commerce web application**
 - 🌱 Learning **Next.js (App Router)** & **AI models**
-- 👯 Open to **GitHub collaboration**
-- 🤔 Interested in **AI + Web projects**
-- 💬 Ask me about **Web Development**
+- 🛒 Specialized in **E-commerce systems**
+- 🤝 Open to **GitHub collaboration**
+- 💬 Ask me about **MERN Stack & E-commerce development**
 
 ---
 
 ## 💼 What I Do Best
-- ⚡ Build modern frontend applications with **React & Next.js**
-- 🎨 Create responsive UI using **Tailwind CSS**
-- 🔐 Authentication & backend logic with **Firebase & Node.js**
-- 🗄 Efficient data handling using **MongoDB**
-- 🤖 AI-powered features & integrations
+- 🛒 Build **full-stack E-commerce applications**
+- ⚙️ Backend APIs using **Node.js & Express.js**
+- 🗄 Database design with **MongoDB**
+- 🔐 Authentication, roles & security
+- 💳 Payment gateway integration
+- 🚀 Performance optimization & scalability
+- 🤖 AI features for smart products & recommendations
 
 ---
 
 ## 🧠 Currently Learning
-- Next.js (Server Components, SEO, Performance)
-- AI models & AI integration in web apps
-- Clean architecture & scalable applications
+- Advanced **Next.js** for full-stack apps
+- AI integration for **E-commerce platforms**
+- Scalable system architecture
+- Secure payment & order management systems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 MERN Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,js,git,github,vscode" />
 </p>
 
 ---
 
 ## 📌 Career Goals (2025)
-- 🚀 Become a **Professional Web Developer**
-- 💼 Get a **Frontend / MERN Stack Developer role**
-- 🌍 Contribute to **Open Source Projects**
-- 🤖 Build **AI-based Web Applications**
-- 🧠 Grow into a **Software Engineer**
+- 🚀 Become a **Professional MERN Stack Developer**
+- 🛒 Build **production-ready E-commerce platforms**
+- 💼 Get a **MERN Stack Developer role**
+- 🌍 Contribute to **Open-source MERN projects**
+- 🤖 Build **AI-powered E-commerce apps**
 
 ---
 
