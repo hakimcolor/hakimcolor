@@ -1,20 +1,22 @@
-<!-- Header -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/H0RdVRn/Screenshot-2025-12-31-183120.png" alt="Mohammad Azizul Hakim - Web Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad Azizul Hakim</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Frontend Web Developer | React & Next.js</h3>
 
 <p align="center">
-  <a href="https://github.com/hakimcolor">
-    <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20views&color=0e75b6&style=flat" alt="hakimcolor" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a **passionate Frontend Web Developer** who loves building **clean, scalable, and user-friendly web applications**.  
-I enjoy turning complex problems into **simple and elegant solutions** using modern web technologies.
+I’m a **Frontend Web Developer** passionate about building **clean, scalable, and user-friendly web applications**.  
+I enjoy turning complex problems into **simple and elegant solutions** using modern technologies.
 
-- 🔭 Currently working on a **private web application**
+- 🔭 Working on a **private web application**
 - 🌱 Learning **Next.js (App Router)** & **AI models**
 - 👯 Open to **GitHub collaboration**
 - 🤔 Interested in **AI + Web projects**
@@ -23,19 +25,18 @@ I enjoy turning complex problems into **simple and elegant solutions** using mod
 ---
 
 ## 💼 What I Do Best
-- ⚡ Build modern frontend apps with **React & Next.js**
-- 🎨 Design responsive UI using **Tailwind CSS**
+- ⚡ Build modern frontend applications with **React & Next.js**
+- 🎨 Create responsive UI using **Tailwind CSS**
 - 🔐 Authentication & backend logic with **Firebase & Node.js**
-- 🗄 Database management using **MongoDB**
-- 🤖 Experiment with **AI-powered features**
+- 🗄 Efficient data handling using **MongoDB**
+- 🤖 AI-powered features & integrations
 
 ---
 
 ## 🧠 Currently Learning
 - Next.js (Server Components, SEO, Performance)
 - AI models & AI integration in web apps
-- Clean architecture & scalable app structure
-- Advanced React patterns & optimization
+- Clean architecture & scalable applications
 
 ---
 
