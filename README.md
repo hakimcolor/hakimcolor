@@ -50,8 +50,8 @@ I focus on building **scalable, secure, and high-performance online stores** wit
 
 ---
 
-## 📌 Career Goals (2025)
-- 🚀 Become a **Professional MERN Stack Developer**
+
+- 🚀 **MERN Stack Developer**
 - 🛒 Build **production-ready E-commerce platforms**
 - 💼 Get a **MERN Stack Developer role**
 - 🌍 Contribute to **Open-source MERN projects**
@@ -59,44 +59,6 @@ I focus on building **scalable, secure, and high-performance online stores** wit
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&count_private=true&theme=react" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hakimcolor&theme=react" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakimcolor&theme=onedark&row=1" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://github.com/hakimcolor">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="40" />
-  </a>
-  <a href="https://www.facebook.com/hakimcolorofficial">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="40" />
-  </a>
-  <a href="https://www.instagram.com/hakim.color/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="40" />
-  </a>
-  <a href="https://twitter.com/hakimcolor">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="40" />
-  </a>
-</p>
-
----
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
