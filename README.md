@@ -31,3 +31,115 @@ I'm a passionate **MERN Stack Developer** specializing in **production-ready E-c
 ---
 
 ## 💼 What I Do Best
+
+---
+
+## 🧠 Currently Learning
+
+- 🚀 Advanced **Next.js** for full-stack applications
+- 🤖 **AI integration** for E-commerce platforms
+- 📊 Scalable system architecture & microservices
+- 💰 Secure payment & order management systems
+- ☁️ Cloud deployment & DevOps
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,js,typescript,git,github,vscode,docker,postgresql" />
+</p>
+
+<details>
+<summary><b>📚 Technology Details</b></summary>
+
+**Frontend:**
+- React.js & Next.js
+- Tailwind CSS & Material-UI
+- Redux & Context API
+
+**Backend:**
+- Node.js & Express.js
+- RESTful APIs & GraphQL
+- JWT Authentication
+
+**Database:**
+- MongoDB & Mongoose
+- Firebase & PostgreSQL
+
+**Tools & Others:**
+- Git & GitHub
+- Docker & DevOps
+- VS Code
+
+</details>
+
+---
+
+## 🎓 Goals & Aspirations
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| 🚀 Become a Senior MERN Developer | 🔄 In Progress |
+| 🛒 Build Production E-commerce Platforms | ✅ Achieved |
+| 💼 Get a MERN Stack Developer Role | 🔄 In Progress |
+| 🌍 Contribute to Open-source | 🔄 Active |
+| 🤖 Master AI Integration | 🔄 Learning |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Highlights
+
+- ⭐ Expertise in building **production-ready e-commerce platforms**
+- 🔒 Strong focus on **security & authentication**
+- ⚡ Performance-optimized applications
+- 🎨 Clean code & best practices
+- 🚀 Scalable architecture design
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+## ⭐ Support
+
+<div align="center">
+  
+  **If you find my work helpful, please consider giving it a ⭐!**
+  
+  Your support motivates me to create better projects and contribute more to the community.
+
+</div>
+
+<div align="center">
+  
+  ![](https://hit.yhype.me/github/profile?user_id=hakimcolor)
+  
+</div>
