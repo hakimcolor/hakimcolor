@@ -10,6 +10,7 @@ Currently learning **Next.js** to build **high-performance, scalable, and SEO-fr
 
 ---
 
+
 ## 🧑‍💻 About Me
 - 🔭 Freelance Web Developer (2023 – Present)
 - 🌱 Learning **Next.js**
@@ -80,7 +81,7 @@ Track income and expenses with a clean and user-friendly dashboard.
 
 🔗 **Live:** https://fineasmanagmentapp.netlify.app/  
 💻 **Code:** https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App  
-
+<img width="960" height="912" alt="Gemini_Generated_Image_s0nzujs0nzujs0nz" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" />
 ---
 
 ## 🎓 Education
