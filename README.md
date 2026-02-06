@@ -1,4 +1,4 @@
-<!-- ========== AMAZING ANIMATED BANNER ========== -->
+<!-- ========== AMAZING ANIMATED NEON BANNER ========== -->
 <div align="center">
 
 <svg width="100%" height="350" viewBox="0 0 1200 350" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 25%, #0d1f3d 50%, #16213e 75%, #0a0e27 100%); border-radius: 10px;">
@@ -14,12 +14,6 @@
       <stop offset="0%" style="stop-color:#ff006e;stop-opacity:0.8" />
       <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:0.2" />
     </radialGradient>
-    
-    <linearGradient id="codeGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#00ff88;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00ff88;stop-opacity:0" />
-    </linearGradient>
     
     <!-- Animations -->
     <style>
@@ -53,11 +47,6 @@
         to { transform: translateY(0); opacity: 1; }
       }
       
-      @keyframes rotate {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-      }
-      
       .main-title { animation: glow 3s ease-in-out infinite, float 4s ease-in-out infinite; }
       .subtitle { animation: pulse 2s ease-in-out infinite, slideUp 0.8s ease-out; }
       .code-line1 { animation: slideRight 1s ease-out; }
@@ -65,16 +54,8 @@
       .code-line3 { animation: slideRight 1.4s ease-out; }
       .code-line4 { animation: slideRight 1.6s ease-out; }
       .code-line5 { animation: slideRight 1.8s ease-out; }
-      .decorator { animation: rotate 20s linear infinite; }
       .neon { animation: neonFlicker 1.5s ease-in-out infinite; }
     </style>
-  </defs>
-  
-  <!-- Background with glow effect -->
-  <defs>
-    <filter id="blur">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" />
-    </filter>
   </defs>
   
   <!-- Animated circles background -->
@@ -141,9 +122,9 @@
   <line x1="150" y1="20" x2="1050" y2="20" stroke="url(#mainGradient)" stroke-width="3" opacity="0.7"/>
   
   <!-- Dots decoration -->
-  <circle cx="200" cy="320" r="4" fill="#00ff88" opacity="0.7" class="pulse"/>
-  <circle cx="600" cy="330" r="4" fill="#00ffff" opacity="0.7" class="pulse"/>
-  <circle cx="1000" cy="320" r="4" fill="#ff006e" opacity="0.7" class="pulse"/>
+  <circle cx="200" cy="320" r="4" fill="#00ff88" opacity="0.7"/>
+  <circle cx="600" cy="330" r="4" fill="#00ffff" opacity="0.7"/>
+  <circle cx="1000" cy="320" r="4" fill="#ff006e" opacity="0.7"/>
 </svg>
 
 </div>
@@ -221,6 +202,7 @@ I'm a passionate **MERN Stack Developer** focused on building **production-ready
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&text_color=00ff88&title_color=00ffff" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=tokyonight&hide_border=true&background=0a0e27&ring=00ff88&fire=ff006e" alt="GitHub Streak" />
 </div>
 
@@ -242,8 +224,8 @@ I'm a passionate **MERN Stack Developer** focused on building **production-ready
 ## 🤝 Let's Connect!
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
   [![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakimcolor@example.com)  
 
@@ -255,6 +237,7 @@ I'm a passionate **MERN Stack Developer** focused on building **production-ready
 <div align="center">
   
   **If you find my work helpful, please consider giving it a ⭐!**  
+  
   Your support motivates me to create better projects and contribute more to the community.  
 
 </div>
