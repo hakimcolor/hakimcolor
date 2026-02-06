@@ -1,132 +1,118 @@
-# 🚀 MERN Stack Developer Portfolio
+<div align="center">
+  
+# 🚀 Mohammad Azizul Hakim
+## MERN Stack Developer | E-commerce Web Development Specialist
 
-![Banner](https://via.placeholder.com/1200x400?text=MERN+Stack+Developer+|+Full+Stack+Engineer)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/Express-Backend-black?style=for-the-badge&logo=express)
 
----
-
-## 👋 Hey, I'm Hakim!
-
-A passionate **MERN Stack Developer** from 🌍. I specialize in building modern, scalable web applications with a focus on clean code and user-centric design.
-
----
-
-## 📖 About Me
-
-I'm a full-stack developer with expertise in the **MERN Stack** (MongoDB, Express, React, Node.js). With a passion for problem-solving and continuous learning, I create robust web solutions that make a difference. I love collaborating with teams, contributing to open-source projects, and staying updated with the latest web development trends.
-
-**My Mission:** To build intuitive, performant, and scalable applications that solve real-world problems.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
+
+I'm a **MERN Stack Developer** specializing in **E-commerce Web Applications**.
+I focus on building scalable, secure, and high-performance online stores with clean architecture and modern technologies.
+
+- 🔭 Working on a private E-commerce web application
+- 🌱 Learning Next.js (App Router) & AI models
+- 🛒 Specialized in E-commerce systems
+- 🤝 Open to GitHub collaboration
+- 💬 Ask me about MERN Stack & E-commerce development
+
+---
+
+## 💼 What I Do Best
+
+🛒 **Build full-stack E-commerce applications**  
+⚙️ **Backend APIs** using Node.js & Express.js  
+🗄️ **Database design** with MongoDB  
+🔐 **Authentication, roles & security**  
+💳 **Payment gateway integration**  
+🚀 **Performance optimization & scalability**  
+🤖 **AI features** for smart products & recommendations  
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Next.js for full-stack apps
+- AI integration for E-commerce platforms
+- Scalable system architecture
+- Secure payment & order management systems
+
+---
+
+## 🛠️ MERN Tech Stack
+
+<div align="center">
 
 ### Frontend
-- **React** - Component-based UI development
-- **HTML5 & CSS3** - Semantic markup and styling
-- **JavaScript (ES6+)** - Modern JavaScript
-- **Redux** - State management
-- **Responsive Design** - Mobile-first approach
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web framework
-- **REST APIs** - RESTful API design
-- **Authentication** - JWT, Sessions
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
-- **MongoDB** - NoSQL database
-- **Mongoose** - MongoDB ODM
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
-- **Git & GitHub** - Version control
-- **Postman** - API testing
-- **VS Code** - Code editor
-- **npm/yarn** - Package management
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 💼 What I Do
-
-✅ **Full-Stack Development** - Build end-to-end web applications  
-✅ **Frontend Development** - Create responsive, interactive UIs with React  
-✅ **Backend Development** - Design scalable APIs and server-side logic  
-✅ **Database Design** - Model and optimize MongoDB databases  
-✅ **Problem Solving** - Debug and optimize code for performance  
+</div>
 
 ---
 
-## 🎓 Currently Learning
+## 🎯 My Goals
 
-- 🔄 Advanced React patterns (Hooks, Context API, Suspense)
-- 📊 GraphQL for efficient data fetching
-- ☁️ Cloud deployment (AWS, Vercel, Heroku)
-- 🧪 Testing frameworks (Jest, React Testing Library)
-- 📱 Mobile development with React Native
+🚀 **MERN Stack Developer** - Build production-ready applications  
+🛒 **E-commerce Expert** - Create scalable online stores  
+💼 **Get a MERN Stack Developer role** - Join an innovative team  
+🌍 **Contribute to Open-source** - MERN community projects  
+🤖 **AI-powered E-commerce** - Build intelligent shopping experiences  
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=radical)](https://github.com/hakimcolor)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=radical)](https://github.com/hakimcolor)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=radical&hide_border=true)](https://github.com/hakimcolor)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=radical&hide_border=true)](https://github.com/hakimcolor)
 
-## 🚀 Featured Projects
-
-### Project 1: [Project Name]
-**Description:** Brief description of what the project does  
-**Tech Stack:** React, Node.js, MongoDB, Express  
-**GitHub:** [View Repository](https://github.com/hakimcolor/project-name)
-
-### Project 2: [Project Name]
-**Description:** Brief description of what the project does  
-**Tech Stack:** React, Express, MongoDB  
-**GitHub:** [View Repository](https://github.com/hakimcolor/project-name)
-
-### Project 3: [Project Name]
-**Description:** Brief description of what the project does  
-**Tech Stack:** Node.js, Express, MongoDB  
-**GitHub:** [View Repository](https://github.com/hakimcolor/project-name)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎖️ [Certification/Achievement Name]
-- 🎖️ [Certification/Achievement Name]
-- 🎖️ [Certification/Achievement Name]
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to new opportunities, collaborations, and conversations about web development!
+<div align="center">
 
-- **GitHub:** [@hakimcolor](https://github.com/hakimcolor)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakimcolor)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakimcolor)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
----
-
-## 💡 Fun Facts
-
-- 🎯 I love building projects that solve real problems
-- 📚 I'm a continuous learner who enjoys reading tech blogs
-- 🤝 I believe in the power of community and collaboration
-- ☕ Coffee-powered developer!
+</div>
 
 ---
 
-## 📝 Let's Collaborate!
+<div align="center">
 
-If you have any interesting projects, job opportunities, or just want to chat about tech, feel free to reach out! I'm always excited to collaborate and learn from others.
-
-⭐ **Don't forget to star my repositories if you find them helpful!**
-
----
+⭐ **If you find my work helpful, please star my repositories!**
 
 *Last Updated: 2026-02-06*
+
+</div>
