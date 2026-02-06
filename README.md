@@ -3,90 +3,91 @@
 🚀 **MERN Stack & WordPress Developer (Next.js Learner)**  
 📍 Jashore, Dhaka, Bangladesh  
 
-I’m a passionate web developer with hands-on experience in **React.js, MERN Stack, and WordPress (Elementor & WooCommerce)**. I enjoy building **scalable, responsive, and user-friendly web applications** and I’m currently learning **Next.js** to create high-performance, SEO-friendly products.
+![Profile Views](https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=0e75b6&style=flat)
+
+I’m a passionate **MERN Stack & WordPress Developer** with hands-on experience in **React.js, REST APIs, Firebase, MongoDB**, and **WordPress (Elementor & WooCommerce)**.  
+Currently learning **Next.js** to build **high-performance, scalable, and SEO-friendly applications**.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Working as a **Freelance Web Developer**
-- 🌱 Currently learning **Next.js**
-- 💡 Love writing **clean, maintainable, and reusable code**
-- 🎨 Skilled in **UI to Code (Figma → Web)**
-- 🤝 Open to **freelance, remote, and collaboration opportunities**
+- 🔭 Freelance Web Developer (2023 – Present)
+- 🌱 Learning **Next.js**
+- 🎨 Expert in **UI to Code (Figma → Web)**
+- ⚡ Focused on **clean, maintainable & reusable code**
+- 🤝 Open for **freelance / remote opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap, DaisyUI
-- JavaScript (ES6+)
-- React.js, Next.js
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap, DaisyUI  
+- JavaScript (ES6+)  
+- React.js, Next.js  
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- JWT Authentication
+- Node.js  
+- Express.js  
+- MongoDB  
+- Firebase  
+- JWT Authentication  
 
 ### WordPress
-- Elementor
-- WooCommerce
-- Landing Page Design
-- Theme Customization
+- Elementor  
+- WooCommerce  
+- Landing Page Design  
+- Theme Customization  
 
 ### Tools & Platforms
-- VS Code, WebStorm, Sublime Text
-- Git & GitHub
-- Netlify, Vercel
-- Firebase Hosting
-- Postman
-- Figma
+- VS Code, WebStorm, Sublime Text  
+- Git & GitHub  
+- Netlify, Vercel  
+- Firebase Hosting  
+- Postman  
+- Figma  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🍽️ Local Chef Bazaar
-A local chef marketplace where users can order meals and chefs manage food items.
+A local chef marketplace where chefs upload food items and users can order meals.
 
-**Tech Stack:**  
-React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS  
+**Features:** Role-based dashboard, Stripe payment, Responsive UI  
 
-**Features:**  
-- Role-based dashboard  
-- Stripe payment gateway  
-- Fully responsive UI  
-
-🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
+🔗 **Live:** https://localchefbazaarbyhakimcolor.netlify.app/  
+💻 **Code:** https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals  
 
 ---
 
 ### 🌱 Community Cleanliness
 A community platform for donations and reporting damaged public property.
 
-**Tech Stack:**  
-React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
+🔗 **Live:** https://community-cleanliness.netlify.app/  
+💻 **Code:** https://github.com/hakimcolor/Community-cleanliness-and-issue  
 
 ---
 
-### 💰 FinEase – Finance Management App
-A personal finance tracking app for income and expenses.
+### 💰 FinEase – Personal Finance Management App
+Track income and expenses with a clean and user-friendly dashboard.
 
-**Tech Stack:**  
-React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
+🔗 **Live:** https://fineasmanagmentapp.netlify.app/  
+💻 **Code:** https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App  
 
 ---
 
 ## 🎓 Education
-- **BBA** – National University, Bangladesh (2023 – 2027)
-- **HSC (Science)** – Chowgacha Government College (2023)
+- **Bachelor of Business Administration (BBA)**  
+  National University, Bangladesh (2023 – 2027)
+- **Higher Secondary Certificate (HSC – Science)**  
+  Chowgacha Government College (2023)
 
 ---
 
@@ -97,14 +98,14 @@ React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 - 📧 Email: **hakimcolor777@gmail.com**
 - 📱 WhatsApp: **+8801818777856**
-- 💼 LinkedIn: *(Add link)*
-- 🧑‍💻 GitHub: *(You are here!)*
-- 🌍 Portfolio: *(Add link)*
-- 🧠 LeetCode: *(Add link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/md-azizul-hakim-b646b22a7/
+- 🌍 Portfolio: https://hakimcolorportfolio.vercel.app/
+- 🧠 LeetCode: https://leetcode.com/u/hakimcolor/
+- 🐙 GitHub: https://github.com/hakimcolor
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star if you like my work!**
+⭐ **If you like my work, don’t forget to star my repositories!**
