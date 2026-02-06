@@ -1,118 +1,110 @@
-<div align="center">
-  
-# 🚀 Mohammad Azizul Hakim
-## MERN Stack Developer | E-commerce Web Development Specialist
+# 👋 Hi, I'm Muhammad Azizul Hakim
 
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-Backend-black?style=for-the-badge&logo=express)
+🚀 **MERN Stack & WordPress Developer (Next.js Learner)**  
+📍 Jashore, Dhaka, Bangladesh  
 
-</div>
+I’m a passionate web developer with hands-on experience in **React.js, MERN Stack, and WordPress (Elementor & WooCommerce)**. I enjoy building **scalable, responsive, and user-friendly web applications** and I’m currently learning **Next.js** to create high-performance, SEO-friendly products.
 
 ---
 
-## 👋 About Me
-
-I'm a **MERN Stack Developer** specializing in **E-commerce Web Applications**.
-I focus on building scalable, secure, and high-performance online stores with clean architecture and modern technologies.
-
-- 🔭 Working on a private E-commerce web application
-- 🌱 Learning Next.js (App Router) & AI models
-- 🛒 Specialized in E-commerce systems
-- 🤝 Open to GitHub collaboration
-- 💬 Ask me about MERN Stack & E-commerce development
+## 🧑‍💻 About Me
+- 🔭 Working as a **Freelance Web Developer**
+- 🌱 Currently learning **Next.js**
+- 💡 Love writing **clean, maintainable, and reusable code**
+- 🎨 Skilled in **UI to Code (Figma → Web)**
+- 🤝 Open to **freelance, remote, and collaboration opportunities**
 
 ---
 
-## 💼 What I Do Best
-
-🛒 **Build full-stack E-commerce applications**  
-⚙️ **Backend APIs** using Node.js & Express.js  
-🗄️ **Database design** with MongoDB  
-🔐 **Authentication, roles & security**  
-💳 **Payment gateway integration**  
-🚀 **Performance optimization & scalability**  
-🤖 **AI features** for smart products & recommendations  
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Next.js for full-stack apps
-- AI integration for E-commerce platforms
-- Scalable system architecture
-- Secure payment & order management systems
-
----
-
-## 🛠️ MERN Tech Stack
-
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap, DaisyUI
+- JavaScript (ES6+)
+- React.js, Next.js
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- JWT Authentication
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+### WordPress
+- Elementor
+- WooCommerce
+- Landing Page Design
+- Theme Customization
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🎯 My Goals
-
-🚀 **MERN Stack Developer** - Build production-ready applications  
-🛒 **E-commerce Expert** - Create scalable online stores  
-💼 **Get a MERN Stack Developer role** - Join an innovative team  
-🌍 **Contribute to Open-source** - MERN community projects  
-🤖 **AI-powered E-commerce** - Build intelligent shopping experiences  
+### Tools & Platforms
+- VS Code, WebStorm, Sublime Text
+- Git & GitHub
+- Netlify, Vercel
+- Firebase Hosting
+- Postman
+- Figma
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<div align="center">
+### 🍽️ Local Chef Bazaar
+A local chef marketplace where users can order meals and chefs manage food items.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=radical&hide_border=true)](https://github.com/hakimcolor)
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=radical&hide_border=true)](https://github.com/hakimcolor)
+**Features:**  
+- Role-based dashboard  
+- Stripe payment gateway  
+- Fully responsive UI  
 
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakimcolor)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakimcolor)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
+🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
 
 ---
 
-<div align="center">
+### 🌱 Community Cleanliness
+A community platform for donations and reporting damaged public property.
 
-⭐ **If you find my work helpful, please star my repositories!**
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-*Last Updated: 2026-02-06*
+🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
 
-</div>
+---
+
+### 💰 FinEase – Finance Management App
+A personal finance tracking app for income and expenses.
+
+**Tech Stack:**  
+React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
+
+🔗 **Live:** (Add Link) | 💻 **Code:** (Add Repo)
+
+---
+
+## 🎓 Education
+- **BBA** – National University, Bangladesh (2023 – 2027)
+- **HSC (Science)** – Chowgacha Government College (2023)
+
+---
+
+## 🌐 Languages
+- Bangla – Native  
+- English – Professional  
+- Hindi – Conversational  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **hakimcolor777@gmail.com**
+- 📱 WhatsApp: **+8801818777856**
+- 💼 LinkedIn: *(Add link)*
+- 🧑‍💻 GitHub: *(You are here!)*
+- 🌍 Portfolio: *(Add link)*
+- 🧠 LeetCode: *(Add link)*
+
+---
+
+⭐ **Feel free to explore my repositories and give a star if you like my work!**
