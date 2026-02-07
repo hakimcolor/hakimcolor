@@ -68,6 +68,7 @@ Local chef marketplace where chefs upload food items and users place orders.
 
 🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/  
 💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals  
+<img width="1920" height="1336" alt="hakimcolor" src="https://github.com/user-attachments/assets/bdd1bdbb-3678-427e-9ca4-86e271a8c2c4" />
 
 ---
 
