@@ -78,6 +78,7 @@ Community platform for donations and reporting damaged public property.
 
 🔗 Live: https://community-cleanliness.netlify.app/  
 💻 Code: https://github.com/hakimcolor/Community-cleanliness-and-issue  
+<img width="1914" height="902" alt="Screenshot 2026-02-07 110125" src="https://github.com/user-attachments/assets/3c525bc5-1088-47b0-9483-1b664792183a" />
 
 ---
 
