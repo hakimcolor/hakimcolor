@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Muhammad Azizul Hakim
+<img width="1515" height="629" alt="hakimcolor" src="https://github.com/user-attachments/assets/938017de-4c93-4320-839a-fbd38014ad40" />
+#👋 Hi, I'm Muhammad Azizul Hakim
+
 
 🚀 **MERN Stack & WordPress Developer (Next.js Learner)**  
 📍 Jashore, Dhaka, Bangladesh  
