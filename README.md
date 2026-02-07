@@ -1,96 +1,103 @@
-<img width="1515" height="629" alt="hakimcolor" src="https://github.com/user-attachments/assets/938017de-4c93-4320-839a-fbd38014ad40" />
-#👋 Hi, I'm Muhammad Azizul Hakim
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/938017de-4c93-4320-839a-fbd38014ad40" alt="HakimColor Banner" />
+</p>
 
+<h1 align="center">👋 Hi, I'm Muhammad Azizul Hakim</h1>
 
-🚀 **MERN Stack & WordPress Developer (Next.js Learner)**  
-📍 Jashore, Dhaka, Bangladesh  
+<p align="center">
+  <strong>MERN Stack & WordPress Developer (Next.js Learner)</strong><br/>
+  📍 Jashore, Dhaka, Bangladesh
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=0e75b6&style=flat)
-
-I’m a passionate **MERN Stack & WordPress Developer** with hands-on experience in **React.js, REST APIs, Firebase, MongoDB**, and **WordPress (Elementor & WooCommerce)**.  
-Currently learning **Next.js** to build **high-performance, scalable, and SEO-friendly applications**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-
 
 ## 🧑‍💻 About Me
+I’m a passionate **MERN Stack & WordPress Developer** with hands-on experience in building modern, scalable, and responsive web applications.  
+Currently learning **Next.js** to deliver **high-performance and SEO-friendly solutions**.
+
 - 🔭 Freelance Web Developer (2023 – Present)
 - 🌱 Learning **Next.js**
-- 🎨 Expert in **UI to Code (Figma → Web)**
-- ⚡ Focused on **clean, maintainable & reusable code**
-- 🤝 Open for **freelance / remote opportunities**
+- 🎨 UI to Code Expert (Figma → Web)
+- ⚡ Clean, reusable & maintainable code
+- 🤝 Open for freelance & remote opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
-- HTML5, CSS3  
-- Tailwind CSS, Bootstrap, DaisyUI  
-- JavaScript (ES6+)  
-- React.js, Next.js  
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
 
-### Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- Firebase  
-- JWT Authentication  
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-### WordPress
-- Elementor  
-- WooCommerce  
-- Landing Page Design  
-- Theme Customization  
+### 🔐 Auth & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=jwt" />
+</p>
 
-### Tools & Platforms
-- VS Code, WebStorm, Sublime Text  
-- Git & GitHub  
-- Netlify, Vercel  
-- Firebase Hosting  
-- Postman  
-- Figma  
+### 🧩 WordPress
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍽️ Local Chef Bazaar
-A local chef marketplace where chefs upload food items and users can order meals.
+Local chef marketplace where chefs upload food items and users place orders.
 
 **Tech:** React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS  
 **Features:** Role-based dashboard, Stripe payment, Responsive UI  
 
-🔗 **Live:** https://localchefbazaarbyhakimcolor.netlify.app/  
-💻 **Code:** https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals  
+🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/  
+💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals  
 
 ---
 
 ### 🌱 Community Cleanliness
-A community platform for donations and reporting damaged public property.
+Community platform for donations and reporting damaged public property.
 
 **Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-🔗 **Live:** https://community-cleanliness.netlify.app/  
-💻 **Code:** https://github.com/hakimcolor/Community-cleanliness-and-issue  
+🔗 Live: https://community-cleanliness.netlify.app/  
+💻 Code: https://github.com/hakimcolor/Community-cleanliness-and-issue  
 
 ---
 
 ### 💰 FinEase – Personal Finance Management App
-Track income and expenses with a clean and user-friendly dashboard.
+Track income and expenses with a clean dashboard.
 
 **Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
 
-🔗 **Live:** https://fineasmanagmentapp.netlify.app/  
-💻 **Code:** https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App  
-<img width="960" height="912" alt="Gemini_Generated_Image_s0nzujs0nzujs0nz" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" />
+🔗 Live: https://fineasmanagmentapp.netlify.app/  
+💻 Code: https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App  
+
+<p align="center">
+  <img width="70%" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" />
+</p>
+
 ---
 
 ## 🎓 Education
-- **Bachelor of Business Administration (BBA)**  
-  National University, Bangladesh (2023 – 2027)
-- **Higher Secondary Certificate (HSC – Science)**  
-  Chowgacha Government College (2023)
+- **BBA** – National University, Bangladesh (2023 – 2027)
+- **HSC (Science)** – Chowgacha Government College (2023)
 
 ---
 
@@ -111,4 +118,4 @@ Track income and expenses with a clean and user-friendly dashboard.
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**
+⭐ If you like my work, don’t forget to star my repositories!
