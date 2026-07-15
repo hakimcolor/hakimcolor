@@ -32,30 +32,30 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
 </p>
 
 ### 🧠 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" />
   <img src="https://img.shields.io/badge/Beekeeper%20Studio-F5A623?style=for-the-badge&logo=beekeeperstudio&logoColor=white" />
-</p>
-
-### 🔐 Auth & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=jwt,postman" />
-</p>
-
-### 🚀 DevOps & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ### 🧩 WordPress
@@ -64,12 +64,6 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
 </p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
