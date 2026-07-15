@@ -38,31 +38,30 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
 ### 🧠 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" height="48" />
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/mysql" width="48" height="48" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" />
-  <img src="https://img.shields.io/badge/Beekeeper%20Studio-F5A623?style=for-the-badge&logo=beekeeperstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/beekeeperstudio" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/sublimetext" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/stripe" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/docker" width="48" height="48" />
 </p>
 
 ### 🧩 WordPress
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/wordpress" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/elementor" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/woocommerce" width="48" height="48" />
 </p>
 ---
 
