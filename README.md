@@ -16,6 +16,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 I’m a passionate **MERN Stack & WordPress Developer** with hands-on experience in building modern, scalable, and responsive web applications.  
 Currently learning **Next.js** to deliver **high-performance and SEO-friendly solutions**.
 
@@ -36,12 +37,25 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-F5A623?style=for-the-badge&logo=beekeeperstudio&logoColor=white" />
 </p>
 
 ### 🔐 Auth & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=jwt" />
+  <img src="https://skillicons.dev/icons?i=jwt,postman" />
+</p>
+
+### 🚀 DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### 🧩 WordPress
@@ -53,7 +67,7 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode" />
 </p>
 
 ---
@@ -61,35 +75,40 @@ Currently learning **Next.js** to deliver **high-performance and SEO-friendly so
 ## 🚀 Featured Projects
 
 ### 🍽️ Local Chef Bazaar
+
 Local chef marketplace where chefs upload food items and users place orders.
 
 **Tech:** React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS  
-**Features:** Role-based dashboard, Stripe payment, Responsive UI  
+**Features:** Role-based dashboard, Stripe payment, Responsive UI
 
 🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/  
-💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals  
+💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals
+
 <img width="1920" height="1336" alt="hakimcolor" src="https://github.com/user-attachments/assets/bdd1bdbb-3678-427e-9ca4-86e271a8c2c4" />
 
 ---
 
 ### 🌱 Community Cleanliness
+
 Community platform for donations and reporting damaged public property.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 🔗 Live: https://community-cleanliness.netlify.app/  
-💻 Code: https://github.com/hakimcolor/Community-cleanliness-and-issue  
+💻 Code: https://github.com/hakimcolor/Community-cleanliness-and-issue
+
 <img width="1914" height="902" alt="Screenshot 2026-02-07 110125" src="https://github.com/user-attachments/assets/3c525bc5-1088-47b0-9483-1b664792183a" />
 
 ---
 
 ### 💰 FinEase – Personal Finance Management App
+
 Track income and expenses with a clean dashboard.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 
 🔗 Live: https://fineasmanagmentapp.netlify.app/  
-💻 Code: https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App  
+💻 Code: https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" />
@@ -98,19 +117,22 @@ Track income and expenses with a clean dashboard.
 ---
 
 ## 🎓 Education
+
 - **BBA** – National University, Bangladesh (2023 – 2027)
 - **HSC (Science)** – Chowgacha Government College (2023)
 
 ---
 
 ## 🌐 Languages
-- Bangla – Native  
-- English – Professional  
-- Hindi – Conversational  
+
+- Bangla – Native
+- English – Professional
+- Hindi – Conversational
 
 ---
 
 ## 📫 Connect With Me
+
 - 📧 Email: **hakimcolor777@gmail.com**
 - 📱 WhatsApp: **+8801818777856**
 - 💼 LinkedIn: https://www.linkedin.com/in/md-azizul-hakim-b646b22a7/
