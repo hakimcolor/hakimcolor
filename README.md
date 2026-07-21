@@ -1,7 +1,6 @@
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/938017de-4c93-4320-839a-fbd38014ad40" alt="HakimColor Banner" />
 </p>
-
 <h1 align="center">👋 Hi, I'm Muhammad Azizul Hakim</h1>
 
 <p align="center">
@@ -77,9 +76,10 @@ Local chef marketplace where chefs upload food items and users place orders.
 🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/  
 💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals
 
-<img width="1920" height="1336" alt="hakimcolor" src="https://github.com/user-attachments/assets/bdd1bdbb-3678-427e-9ca4-86e271a8c2c4" />
+<img width="1774" height="887" alt="ChatGPT Image Jul 21, 2026, 07_00_55 PM" src="https://github.com/user-attachments/assets/b56498ff-abba-4705-bc1f-674615dc6f4f" />
 
 ---
+
 
 ### 🌱 Community Cleanliness
 
