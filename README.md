@@ -5,13 +5,13 @@
 <h1 align="center">👋 Hi, I'm Muhammad Azizul Hakim</h1>
 
 <p align="center">
-  <strong>MERN Stack & WordPress Developer (Next.js Learner)</strong><br/>
-  📍 Jashore, Dhaka, Bangladesh
+  <strong>Full Stack Developer || MERN Stack Developer || Backend Developer || WordPress Developer</strong><br/>
+  📍 Jashore, Bangladesh
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;WordPress+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;PostgreSQL+%7C+SQL+%7C+Prisma;Figma+to+Pixel-Perfect+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;WordPress+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;PostgreSQL+%7C+SQL+%7C+NeonDB+%7C+Prisma;Docker+%7C+CI%2FCD+Pipelines;Figma+to+Pixel-Perfect+Web+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,14 +23,21 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer with hands-on experience building scalable and secure web applications using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and SQL. Skilled in RESTful API development, JWT Firebase Authentication, database design, responsive application development, and writing clean, maintainable, production-ready cod. also i know CMS (Wordpress)
+I'm a **Full Stack Developer** with hands-on experience building modern, scalable, and responsive web applications using **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, SQL, and Prisma**.
 
-* 🔭 Freelance Web Developer (2023 – Present)
-* 🌱 Learning **Next.js**
-* 🎨 UI to Code Expert (Figma → Web)
+I also work with **WordPress, Elementor, WooCommerce, Figma-to-WordPress development, landing page design, and theme customization**.
+
+I'm continuously improving my backend and DevOps skills, with a focus on **backend architecture, database design, RESTful APIs, authentication, Docker, and CI/CD pipelines**.
+
+* 🔭 **Freelance Full Stack & WordPress Developer (2023 – Present)**
+* 🌱 Currently learning **Next.js, Backend Architecture & DevOps**
+* 🎨 **Figma → Pixel-Perfect Web Development**
 * ⚡ Clean, reusable & maintainable code
-* 🤝 Open for freelance & remote opportunities
-* 🧠 Interested in **Full-Stack Development, Backend Architecture & Database Design**
+* 🔐 REST APIs · JWT Authentication · Firebase Authentication
+* 🗄️ PostgreSQL · SQL · MongoDB · NeonDB · Prisma ORM
+* 🐳 Docker · CI/CD Pipelines
+* 🤝 Open to **freelance, remote & full-time opportunities**
+* 🧠 Interested in **Full Stack Development, Backend Architecture & Database Design**
 
 ---
 
@@ -39,22 +46,25 @@ Full Stack Developer with hands-on experience building scalable and secure web a
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts" />
+</p>
+
+<p>
+  <strong>Frontend:</strong> HTML · CSS · Tailwind CSS · Bootstrap · JavaScript · React.js · Next.js · TypeScript
 </p>
 
 ---
 
-### 🧠 Backend & Programming
+### ⚙️ Backend & Authentication
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" height="48" alt="JWT" />
-  <img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma" />
-  <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" height="48" alt="JWT Authentication" />
+  <img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma ORM" />
 </p>
 
 <p>
-  <strong>Backend:</strong> Node.js · Express.js · REST APIs · Firebase · JWT · Prisma ORM
+  <strong>Backend:</strong> Node.js · Express.js · REST APIs · Firebase Authentication · JWT Authentication · Prisma ORM
   <br/>
   <strong>Languages:</strong> JavaScript · TypeScript · SQL
 </p>
@@ -64,36 +74,18 @@ Full Stack Developer with hands-on experience building scalable and secure web a
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://cdn.simpleicons.org/neon/00E599" width="48" height="48" alt="NeonDB" />
   <img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma ORM" />
+  <img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="SQL" />
 </p>
 
 <p>
-  <strong>Databases:</strong> MongoDB · PostgreSQL · MySQL
+  <strong>Database:</strong> PostgreSQL · SQL · NeonDB · MongoDB
   <br/>
   <strong>ORM:</strong> Prisma
   <br/>
   <strong>Database Tools:</strong> Beekeeper Studio
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" />
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/beekeeperstudio" width="48" height="48" alt="Beekeeper Studio" />
-  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
-  <img src="https://cdn.simpleicons.org/sublimetext" width="48" height="48" alt="Sublime Text" />
-  <img src="https://cdn.simpleicons.org/stripe" width="48" height="48" alt="Stripe" />
-</p>
-
-<p>
-  VS Code · Git · GitHub · Postman · Figma · Canva · Beekeeper Studio ·
-  Sublime Text · Netlify · Vercel · Docker · Stripe
 </p>
 
 ---
@@ -107,8 +99,37 @@ Full Stack Developer with hands-on experience building scalable and secure web a
 </p>
 
 <p>
-  WordPress · Elementor · WooCommerce · Responsive Web Design ·
-  Figma to WordPress · Custom WordPress Websites
+  <strong>WordPress:</strong> WordPress · Elementor · WooCommerce · Landing Page Design · Theme Customization · Figma to WordPress · Custom WordPress Websites
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" />
+</p>
+
+<p>
+  <img src="https://cdn.simpleicons.org/beekeeperstudio" width="48" height="48" alt="Beekeeper Studio" />
+  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/stripe" width="48" height="48" alt="Stripe" />
+</p>
+
+<p>
+  VS Code · Git · GitHub · Postman · Beekeeper Studio · Figma · Canva · Netlify · Vercel · Docker · Stripe
+</p>
+
+---
+
+### 🚀 DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,netlify" />
+</p>
+
+<p>
+  <strong>DevOps:</strong> Docker · CI/CD Pipelines · GitHub Actions · Git · GitHub · Vercel · Netlify
 </p>
 
 ---
@@ -117,38 +138,42 @@ Full Stack Developer with hands-on experience building scalable and secure web a
 
 ### 🍽️ Local Chef Bazaar
 
-Local chef marketplace where chefs upload food items and users place orders.
+A local chef marketplace where chefs can upload food items and users can place orders.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, JWT, Tailwind CSS
-**Features:** Role-based dashboard, Stripe payment, Responsive UI
+**Tech:** React.js · Node.js · Express.js · MongoDB · Firebase · JWT · Tailwind CSS · Stripe
+
+**Features:** Role-based dashboard · Authentication · REST API · Stripe Payment · Responsive UI
 
 🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/
+
 💻 Code: https://github.com/hakimcolor/UI-LocalChefBazaar-Marketplace-for-Local-Home-Cooked-Meals
 
-<img width="1774" height="887" alt="ChatGPT Image Jul 21, 2026, 07_00_55 PM" src="https://github.com/user-attachments/assets/b56498ff-abba-4705-bc1f-674615dc6f4f" />
+<img width="1774" height="887" alt="Local Chef Bazaar" src="https://github.com/user-attachments/assets/b56498ff-abba-4705-bc1f-674615dc6f4f" />
 
 ---
 
 ### 🌱 Community Cleanliness
 
-Community platform for donations and reporting damaged public property.
+A community platform for donations and reporting damaged public property.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+**Tech:** React.js · Node.js · Express.js · MongoDB · Firebase · Tailwind CSS
 
 🔗 Live: https://community-cleanliness.netlify.app/
+
 💻 Code: https://github.com/hakimcolor/Community-cleanliness-and-issue
 
-<img width="1914" height="902" alt="Screenshot 2026-02-07 110125" src="https://github.com/user-attachments/assets/3c525bc5-1088-47b0-9483-1b664792183a" />
+<img width="1914" height="902" alt="Community Cleanliness" src="https://github.com/user-attachments/assets/3c525bc5-1088-47b0-9483-1b664792183a" />
 
 ---
 
 ### 💰 FinEase – Personal Finance Management App
 
-Track income and expenses with a clean dashboard.
+A personal finance management application for tracking income and expenses with a clean dashboard.
 
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
+**Tech:** React.js · Node.js · Express.js · MongoDB · Firebase · Tailwind CSS
 
 🔗 Live: https://fineasmanagmentapp.netlify.app/
+
 💻 Code: https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App
 
 <p align="center">
@@ -221,4 +246,4 @@ Track income and expenses with a clean dashboard.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a5acd&height=120&section=footer" />
 </p>
 
-⭐ If you like my work, don’t forget to star my repositories!
+⭐ If you like my work, don't forget to star my repositories!
