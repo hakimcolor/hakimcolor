@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hakimcolor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building modern, scalable, and responsive web applications using **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, SQL, and Prisma**.
+I'm a **Full Stack Developer** with hands-on experience building modern, scalable, secure, and responsive web applications using **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, SQL, and Prisma**.
 
 I also work with **WordPress, Elementor, WooCommerce, Figma-to-WordPress development, landing page design, and theme customization**.
 
@@ -34,7 +34,7 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 * 🎨 **Figma → Pixel-Perfect Web Development**
 * ⚡ Clean, reusable & maintainable code
 * 🔐 REST APIs · JWT Authentication · Firebase Authentication
-* 🗄️ PostgreSQL · SQL · MongoDB · NeonDB · Prisma ORM
+* 🗄️ PostgreSQL · SQL · NeonDB · MongoDB · Prisma
 * 🐳 Docker · CI/CD Pipelines
 * 🤝 Open to **freelance, remote & full-time opportunities**
 * 🧠 Interested in **Full Stack Development, Backend Architecture & Database Design**
@@ -46,11 +46,12 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,ts" alt="Frontend Technologies" />
 </p>
 
 <p>
-  <strong>Frontend:</strong> HTML · CSS · Tailwind CSS · Bootstrap · JavaScript · React.js · Next.js · TypeScript
+  <strong>Frontend:</strong>
+  HTML · CSS · Tailwind CSS · Bootstrap · JavaScript · React.js · Next.js · TypeScript
 </p>
 
 ---
@@ -58,15 +59,17 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 ### ⚙️ Backend & Authentication
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend Technologies" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens" width="48" height="48" alt="JWT Authentication" />
   <img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma ORM" />
 </p>
 
 <p>
-  <strong>Backend:</strong> Node.js · Express.js · REST APIs · Firebase Authentication · JWT Authentication · Prisma ORM
+  <strong>Backend:</strong>
+  Node.js · Express.js · REST APIs · Firebase Authentication · JWT Authentication · Prisma ORM
   <br/>
-  <strong>Languages:</strong> JavaScript · TypeScript · SQL
+  <strong>Languages:</strong>
+  JavaScript · TypeScript · SQL
 </p>
 
 ---
@@ -74,18 +77,20 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Database Technologies" />
   <img src="https://cdn.simpleicons.org/neon/00E599" width="48" height="48" alt="NeonDB" />
   <img src="https://cdn.simpleicons.org/prisma" width="48" height="48" alt="Prisma ORM" />
-  <img src="https://cdn.simpleicons.org/mysql" width="48" height="48" alt="SQL" />
 </p>
 
 <p>
-  <strong>Database:</strong> PostgreSQL · SQL · NeonDB · MongoDB
+  <strong>Database:</strong>
+  PostgreSQL · SQL · NeonDB · MongoDB
   <br/>
-  <strong>ORM:</strong> Prisma
+  <strong>ORM:</strong>
+  Prisma
   <br/>
-  <strong>Database Tools:</strong> Beekeeper Studio
+  <strong>Database Tools:</strong>
+  Beekeeper Studio
 </p>
 
 ---
@@ -99,7 +104,8 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 </p>
 
 <p>
-  <strong>WordPress:</strong> WordPress · Elementor · WooCommerce · Landing Page Design · Theme Customization · Figma to WordPress · Custom WordPress Websites
+  <strong>WordPress:</strong>
+  WordPress · Elementor · WooCommerce · Landing Page Design · Theme Customization · Figma to WordPress · Custom WordPress Websites
 </p>
 
 ---
@@ -107,7 +113,7 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,docker" alt="Development Tools" />
 </p>
 
 <p>
@@ -122,14 +128,15 @@ I'm continuously improving my backend and DevOps skills, with a focus on **backe
 
 ---
 
-### 🚀 DevOps & Deployment
+### 🚀 DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" alt="DevOps Technologies" />
 </p>
 
 <p>
-  <strong>DevOps:</strong> Docker · CI/CD Pipelines · GitHub Actions · Git · GitHub · Vercel · Netlify
+  <strong>DevOps:</strong>
+  Docker · CI/CD Pipelines · GitHub Actions · Git · GitHub
 </p>
 
 ---
@@ -142,7 +149,7 @@ A local chef marketplace where chefs can upload food items and users can place o
 
 **Tech:** React.js · Node.js · Express.js · MongoDB · Firebase · JWT · Tailwind CSS · Stripe
 
-**Features:** Role-based dashboard · Authentication · REST API · Stripe Payment · Responsive UI
+**Features:** Role-Based Dashboard · Authentication · REST API · Stripe Payment · Responsive UI
 
 🔗 Live: https://localchefbazaarbyhakimcolor.netlify.app/
 
@@ -177,7 +184,7 @@ A personal finance management application for tracking income and expenses with 
 💻 Code: https://github.com/hakimcolor/FinEaseUIIIIIIIIIIIIIIIIIIIIIIIII---Personal-Finance-Management-App
 
 <p align="center">
-  <img width="70%" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" />
+  <img width="70%" src="https://github.com/user-attachments/assets/5862c383-8237-4751-be2f-48042e163799" alt="FinEase" />
 </p>
 
 ---
@@ -185,21 +192,16 @@ A personal finance management application for tracking income and expenses with 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hakimcolor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimcolor&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hakimcolor&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
@@ -207,7 +209,7 @@ A personal finance management application for tracking income and expenses with 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hakimcolor/hakimcolor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="./profile/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -243,7 +245,7 @@ A personal finance management application for tracking income and expenses with 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a5acd&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a5acd&height=120&section=footer" alt="Footer" />
 </p>
 
 ⭐ If you like my work, don't forget to star my repositories!
