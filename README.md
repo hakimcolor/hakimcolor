@@ -1,9 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/938017de-4c93-4320-839a-fbd38014ad40" alt="HakimColor Banner" />
+ <img width="1983" height="793" alt="hakimcolorgithub" src="https://github.com/user-attachments/assets/03bf4c05-ee8c-47a5-910c-b565eed3ec00" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Muhammad Azizul Hakim</h1>
 
+<h1 align="center">👋 Hi, I'm Muhammad Azizul Hakim</h1>
+ 
 <p align="center">
   <strong>Full Stack Developer || MERN Stack Developer || Backend Developer || WordPress Developer</strong><br/>
   📍 Jashore, Bangladesh
